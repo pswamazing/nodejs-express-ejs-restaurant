@@ -1,0 +1,42 @@
+[
+  {
+    "id": "r1",
+    "name": "Test Restaurant",
+    "address": "Some address 5, 12345 Some City",
+    "cuisine": "Italian",
+    "website": "https://mytest.com",
+    "description": "It's awesome!"
+  },
+  {
+    "id": "r2",
+    "name": "Test 2",
+    "address": "Some Test Addresss 5, 12345 Test City",
+    "cuisine": "Indian",
+    "website": "https://mygreattest.com",
+    "description": "It's also amazing!"
+  },
+  {
+    "id": "r3",
+    "name": "Test 3 Restaurant",
+    "address": "Some address 5, 12345 Some City",
+    "cuisine": "German",
+    "website": "https://awesome.com",
+    "description": "It's amazing! Of course!"
+  },
+  {
+    "name": "A Restaurant",
+    "address": "12345 Seoul, GwangJingu",
+    "cuisine": "Korean",
+    "website": "https://a-restaurant.co.kr",
+    "description": "Very good! It's Delicious",
+    "id": "71ab6e78-ffb9-468d-96a6-0608e07d4631"
+  },
+  {
+    "name": "Munich Fines Restaurant",
+    "address": "GreatStreet 5, Munich",
+    "cuisine": "German",
+    "website": "https://munich-awesome.com",
+    "description": "It's Munich, that's where i live!",
+    "id": "b142cc39-7bde-4ad9-88b0-5a5374235305"
+  }
+]
